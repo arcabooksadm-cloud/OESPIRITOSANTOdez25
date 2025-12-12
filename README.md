@@ -8,3 +8,4 @@
 <img width="1350" height="1030" alt="LIVRO - O ESPIRITO SANTO" src="https://github.com/user-attachments/assets/4ed34f08-1be5-4c10-bd3a-4586540e3026" />
 <img width="1145" height="223" alt="Um Livro Revelador!" src="https://github.com/user-attachments/assets/b14ad89a-aa0f-4f26-909b-be35c7d2871f" />
 <img width="804" height="223" alt="Inicie sua leitura aqui" src="https://github.com/user-attachments/assets/85d52c28-9075-43fc-ad67-69eebe07b3a7" />
+<img width="1350" height="1762" alt="fundo 2" src="https://github.com/user-attachments/assets/b35be641-a5af-4ada-88bf-1b660d08b738" />
