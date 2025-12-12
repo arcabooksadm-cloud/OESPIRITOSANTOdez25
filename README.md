@@ -11,3 +11,4 @@
 <img width="1350" height="1762" alt="fundo 2" src="https://github.com/user-attachments/assets/b35be641-a5af-4ada-88bf-1b660d08b738" />
 <img width="522" height="343" alt="arca" src="https://github.com/user-attachments/assets/bb7f5042-fb5e-41f3-82fb-02e16bf6be9f" />
 <img width="1350" height="1022" alt="Retângulo 7" src="https://github.com/user-attachments/assets/4bc8ac55-117c-43df-ac48-aede224a77fb" />
+<img width="914" height="181" alt="arca" src="https://github.com/user-attachments/assets/13d02bbc-f565-488f-8ca9-834cf76353b5" />
